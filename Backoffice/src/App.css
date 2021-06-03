@@ -1,0 +1,40 @@
+html {
+    font-size: 16px;
+    color: #2a2a2a;
+    background-color: #1e1e1e;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    background-color: #ffcc57;
+    color: #ffffff;
+    font-size: 28px;
+    border-radius: 7px;
+    text-decoration: none;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right: 5%;
+}
+
+.clients-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    margin-left: 38%;
+}
+
+.order-lines-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.chart {
+    background-color: #393e46;
+}
